@@ -1,6 +1,16 @@
 {
-  "bug_report": {
-    "open",
-    "closed"
-  }
+  "bug_report": [
+    "Summary",
+    "Project",
+    "Component",
+    "Version",
+    "Severity",
+    "Priority",
+    "Steps to Reproduce",
+    "Result",
+    "Expected Result",
+    "Status",
+    "Author",
+    "Attachment"
+  ]
 }
